@@ -41,6 +41,21 @@ Floating-Point Types
 | long double | 10 byte       | 3.4E-4932 to 1.1E+4932 | 19 decimal places | %Lf              |
 
 
+## Type-Casting
+
+
+## Multi-line Strings
+
+
+## Comments
+
+
+## C Operators
+
+
+
+## Pointers
+
     
     
 ## Reference
